@@ -5,7 +5,7 @@
 
 
 
-# workflow
+# Workflow
 
 1. 스토리보드(애니매틱 영상) -> 클라이언트가 어떻게 진행할지 알려주고, 사운드와의 궁합을 봄
 2. 모델링 : 윤곽을 잡음
@@ -18,8 +18,10 @@
     - symmetry : 대칭 복사, 단 한개만 복사되기때문에 그룹화해서 전달
     
 - null
+
 # etc
 
+라이브셀렉션(9) : 드래그처럼 여러개를 동시선택가
 - 용어
     - 스타일 프레임 : 이미지를 디자인하거나 컨셉을 명확히함
     - shading : 텍스쳐링과 비슷함
@@ -33,6 +35,8 @@
 Z brush : 소묘
 Substance Designer : 재질 맵핑에 최적
 
+Shift + v : configure
+
 # Primate Object
 
 # Deformer
@@ -44,3 +48,9 @@ Substance Designer : 재질 맵핑에 최적
 ### Null Object 
 
 > 그룹핑 역
+
+## MoGraph
+
+> 애니메이션 등을 쉽게해줌
+
+- clone : 방사형, 직선, 원형 등으로 오브젝트를 복사해줌

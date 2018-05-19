@@ -8,6 +8,8 @@
 
 - bend : 구부림
     - keep y-axis-length :
+    
+- ffd : 교차점에 따라 왜곡을  (포인트 모드로 들어가야 사용가능)
 ### Null Object 
 
 > 그룹핑 역
