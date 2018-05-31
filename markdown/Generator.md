@@ -6,7 +6,7 @@
     - constrain : 크기 제약을 걸
     - step : 세그먼트와 비슷
     
-        
+         
         
 - Lathe : 돌릴 수 있는 오브젝트를 만듬
     - 마지막점은 0,0 이여야함
@@ -25,8 +25,9 @@
     - Accurate Normals : ? 켜놓는게좋음
     
     
-- Spline Mask : Spline 에서 PathFinder랑 거의 같음 
-- Boole3 : 3D 객체에서 Path Finder 와 같음3
+- Spline Mask : Spline 에서 PathFinder랑 거의 같음, (object 선택 c )
+- symmetry : 대칭 복사, 단 한개만 복사되기때문에 그룹화해서 전달
+- Boole : 3D 객체에서 Path Finder 와 같음
     
     
     
